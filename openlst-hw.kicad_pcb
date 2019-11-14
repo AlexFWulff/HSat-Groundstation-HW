@@ -4819,7 +4819,7 @@
   (gr_arc (start 168.5 83.5) (end 173.5 83.5) (angle 90) (layer Edge.Cuts) (width 0.0254))
   (gr_arc (start 168.5 43.5) (end 168.5 38.5) (angle 90) (layer Edge.Cuts) (width 0.0254))
   (gr_arc (start 118.5 43.5) (end 113.5 43.5) (angle 90) (layer Edge.Cuts) (width 0.0254))
-  (gr_text "rev 2.1, 2018-08-02" (at 156.7 87.5) (layer F.SilkS)
+  (gr_text "HSat Rev 1.2 11/14/19" (at 156.7 87.5) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
   (gr_text OpenLST (at 156.7 84.5) (layer B.SilkS)
